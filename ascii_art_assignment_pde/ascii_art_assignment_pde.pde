@@ -14,6 +14,14 @@ void setup() {
  println("    S  A   A  R   R   A   A  H   H    F");
  println("S   S  A   A  R    R  A   A  H   H    F");
  println(" SSS   A   A  R    R  A   A  H   H    F");
+ 
+ println("  /\\        /\\");
+ println(" /  \\______/  \\");
+ println("I              I");
+ println("I   O      O   I");
+ println("I              I");
+ println(" I    -___-   I");
+ println("  I__________I");
  }
 
 void draw() {
