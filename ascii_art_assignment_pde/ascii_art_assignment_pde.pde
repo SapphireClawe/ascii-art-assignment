@@ -19,7 +19,7 @@ void setup() {
  println(" /  \\______/  \\");
  println("I              I");
  println("I   O      O   I");
- println("I              I");
+ println("I       W      I");
  println(" I    -___-   I");
  println("  I__________I");
  }
